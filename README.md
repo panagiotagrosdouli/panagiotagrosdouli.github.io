@@ -1,16 +1,16 @@
-# Panagiota Grosdouli — academic website
+# Panagiota Grosdouli — Academic Website
 
-A simple, responsive academic website designed for GitHub Pages.
+Single-page academic website inspired by classic scholarly personal pages. Updated using the publicly available academic CV and research portfolio, with degree grade supplied directly by Panagiota.
 
-## Publish
+## Publish with GitHub Pages
 
-1. Create a **public** GitHub repository named `panagiotagrosdouli.github.io`.
-2. Upload `index.html` and `.nojekyll` to the repository root and commit them to the `main` branch.
-3. Open repository **Settings → Pages**. Under **Build and deployment**, select **Deploy from a branch**, then select `main` and `/(root)` and Save.
-4. Visit `https://panagiotagrosdouli.github.io/` after GitHub Pages finishes deployment.
+Create the **public** repository `panagiotagrosdouli.github.io`, upload `index.html` and `.nojekyll` to the root of the `main` branch, then select **Settings → Pages → Deploy from a branch → main / (root)**.
 
-## Edit
+## Before publishing
 
-Open `index.html` on GitHub, click the pencil icon, replace placeholder text (biography, photo, research, degrees and email), then commit changes.
+- Replace the placeholder portrait with an authorized image.
+- Verify all information, especially current research project statuses and LinkedIn URL.
+- LinkedIn does not expose complete profile text to public browsing; data comes from the public CV and portfolio instead.
 
-This site does not claim any unverified degree, affiliation, publication, or research achievement.
+## Source
+https://panagiota-research-portfolio.vercel.app/cv/
