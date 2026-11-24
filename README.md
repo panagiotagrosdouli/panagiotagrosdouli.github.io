@@ -1,16 +1,15 @@
-# Panagiota Grosdouli — Academic Website
+# Panagiota Grosdouli — Research Portfolio
 
-Single-page academic website inspired by classic scholarly personal pages. Updated using the publicly available academic CV and research portfolio, with degree grade supplied directly by Panagiota.
+Personal academic website focused on robotics, reliable perception, state estimation and autonomous navigation. Custom HTML and CSS layout, with research project diagrams and links to academic resources.
 
-## Publish with GitHub Pages
+## Website
+https://panagiotagrosdouli.github.io/
 
-Create the **public** repository `panagiotagrosdouli.github.io`, upload `index.html` and `.nojekyll` to the root of the `main` branch, then select **Settings → Pages → Deploy from a branch → main / (root)**.
+## Deployment
+GitHub Pages serves the static site from the root of the main branch.
 
-## Before publishing
+## Maintenance
+Update index.html and the project diagrams in assets/ as research progresses. Verify research claims, project validation status and external links before publishing.
 
-- Replace the placeholder portrait with an authorized image.
-- Verify all information, especially current research project statuses and LinkedIn URL.
-- LinkedIn does not expose complete profile text to public browsing; data comes from the public CV and portfolio instead.
-
-## Source
+## Academic CV
 https://panagiota-research-portfolio.vercel.app/cv/
